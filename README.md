@@ -1,2 +1,1 @@
-# skajpcz.github.io
-My own website
+# My own website
